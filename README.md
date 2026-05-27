@@ -1,16 +1,20 @@
-## Hi there 👋
+# Tatiana Prytkova
 
-<!--
-**tprytkov/tprytkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational scientist with experience in Python scripting, RDKit-based cheminformatics, molecular modeling, docking analysis, and AI-guided drug discovery workflows.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for scientific data analysis
+- RDKit and cheminformatics
+- Molecular docking and virtual screening
+- Molecular modeling and protein-ligand interaction analysis
+- pandas, NumPy, scikit-learn, matplotlib
+- Drug-likeness filtering, scaffold analysis, and ADME data preparation
+
+## Featured Repository
+
+### Drug Design Data Analysis Scripts
+
+Python scripts for computational drug discovery workflows, including RDKit QED/SA filtering, docking result analysis, scaffold diversity analysis, interaction fingerprint analysis, and SwissADME batch preparation.
+
+Repository: [rdkit](https://github.com/tprytkov/rdkit)
