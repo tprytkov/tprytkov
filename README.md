@@ -1,6 +1,6 @@
 # Tatiana Prytkova
 
-Computational scientist with experience in Python scripting, RDKit-based cheminformatics, molecular modeling, docking analysis, and AI-guided drug discovery workflows.
+Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical NLP, Python, Scientific ML 
 
 ## Technical Skills
 - Retrieval-Augmented Generation pipeline design
