@@ -3,6 +3,14 @@
 Computational scientist with experience in Python scripting, RDKit-based cheminformatics, molecular modeling, docking analysis, and AI-guided drug discovery workflows.
 
 ## Technical Skills
+- Retrieval-Augmented Generation pipeline design
+- Hybrid search: sparse TF-IDF/BM25-style retrieval plus dense transformer embeddings
+- Biomedical NLP and literature search workflows
+- FastAPI backend development
+- Streamlit dashboard development
+- pytest-based automated testing
+- Docker and docker-compose deployment
+- Python package organization with `src/`, `scripts/`, `tests/`, and `docs/`
 
 - Python for scientific data analysis
 - RDKit and cheminformatics
