@@ -33,7 +33,7 @@ Repository: https://github.com/tprytkov/biomed-kg-memory-agent
 ### Biomedical RAG Hybrid Search
 Biomedical retrieval-augmented generation prototype combining sparse keyword search, dense embeddings, score fusion, FastAPI endpoints, test coverage, and reproducible local setup.
 
-Live demo: https://biomed-rag-hybrid-search-hmnywnzkx68xjbjkxentmw.streamlit.app/
+Live demo: https://biomed-rag-hybrid-search-hmnywnzkx68xjbjkxentmw.streamlit.app/  
 Repository: https://github.com/tprytkov/biomed-rag-hybrid-search
 
 ### Drug Design Data Analysis Scripts
