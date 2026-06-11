@@ -21,8 +21,19 @@ Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical
 
 ## Featured Repository
 
-## Featured Projects
 
+## Featured AI/Data Science Portfolio Projects
+
+### Biomedical Temporal Knowledge-Graph Memory Agent
+Local-first biomedical agent memory system using temporal knowledge-graph facts, synthetic biomedical data, FastAPI, Streamlit, optional Neo4j, and evaluation metrics.
+
+Live demo: https://biomed-kg-memory-agent-jqqguacema26da5fdfnk9m.streamlit.app/  
+Repository: https://github.com/tprytkov/biomed-kg-memory-agent
+
+### Biomedical RAG Hybrid Search
+Biomedical retrieval-augmented generation prototype combining sparse keyword search, dense embeddings, score fusion, FastAPI endpoints, test coverage, and reproducible local setup.
+
+Repository: https://github.com/tprytkov/biomed-rag-hybrid-search
 ### Biomedical Hybrid-RAG Search & Synthesis Engine
 Biomedical RAG system combining sparse keyword retrieval and dense transformer embeddings with score fusion, FastAPI orchestration, Streamlit interface, automated tests, and Docker deployment.
 
