@@ -22,7 +22,7 @@ Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical
 ## Featured Repository
 
 
-## Featured AI/Data Science Portfolio Projects
+## Featured AI/Data Science Projects
 
 ### Biomedical Temporal Knowledge-Graph Memory Agent
 Local-first biomedical agent memory system using temporal knowledge-graph facts, synthetic biomedical data, FastAPI, Streamlit, optional Neo4j, and evaluation metrics.
