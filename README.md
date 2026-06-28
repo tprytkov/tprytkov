@@ -22,22 +22,40 @@ Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical
 ## Featured Repository
 
 
-## Featured AI/Data Science Projects
+## Selected AI, Biomedical NLP, and Drug Design Projects
+
+### AI Molecule Design Assistant
+
+Open-source cheminformatics and AI-assisted drug-design workflow for triaging generated or user-provided small molecules. The app supports chemical standardization, RDKit descriptor calculation, public chemical identity lookup, biomedical-context evidence using optional BioBERT/PubMedBERT-style embeddings, patent/IP-context evidence using optional PaECTER/patent-BERT-style models, interpretable prioritization, and reproducible report generation.
+
+The workflow is designed for early-stage research triage of generative molecular candidates. IP-context and patent-evidence outputs are used only as computational research signals and do not determine novelty, patentability, freedom to operate, ownership, infringement risk, efficacy, safety, or clinical value.
+
+Live demo: https://ai-molecule-design-assistant.streamlit.app/
+Repository: https://github.com/tprytkov/ai-molecule-design-assistant
+
+---
 
 ### Biomedical Temporal Knowledge-Graph Memory Agent
-Local-first biomedical agent memory system using temporal knowledge-graph facts, synthetic biomedical data, FastAPI, Streamlit, optional Neo4j, and evaluation metrics.
 
-Live demo: https://biomed-kg-memory-agent-jqqguacema26da5fdfnk9m.streamlit.app/  
+Local-first biomedical agent memory system using temporal knowledge-graph facts, synthetic biomedical data, FastAPI, Streamlit, optional Neo4j, and evaluation metrics. The project demonstrates how structured biomedical memory can support retrieval, reasoning, and explainable agent workflows.
+
+Live demo: https://biomed-kg-memory-agent-jqqguacema26da5fdfnk9m.streamlit.app/
 Repository: https://github.com/tprytkov/biomed-kg-memory-agent
 
-### Biomedical RAG Hybrid Search
-Biomedical retrieval-augmented generation prototype combining sparse keyword search, dense embeddings, score fusion, FastAPI endpoints, test coverage, and reproducible local setup.
+---
 
-Live demo: https://biomed-rag-hybrid-search-hmnywnzkx68xjbjkxentmw.streamlit.app/  
+### Biomedical RAG Hybrid Search
+
+Biomedical retrieval-augmented generation prototype combining sparse keyword search, dense embeddings, score fusion, FastAPI endpoints, test coverage, and reproducible local setup. The project demonstrates hybrid retrieval for biomedical question answering and document search.
+
+Live demo: https://biomed-rag-hybrid-search-hmnywnzkx68xjbjkxentmw.streamlit.app/
 Repository: https://github.com/tprytkov/biomed-rag-hybrid-search
+
+---
 
 ### Drug Design Data Analysis Scripts
 
-Python scripts for computational drug discovery workflows, including RDKit QED/SA filtering, docking result analysis, scaffold diversity analysis, interaction fingerprint analysis, and SwissADME batch preparation.
+Python scripts for computational drug discovery workflows, including RDKit QED/SA filtering, docking-result analysis, scaffold-diversity analysis, interaction-fingerprint analysis, molecular-property calculations, and SwissADME batch preparation.
 
-Repository: [rdkit](https://github.com/tprytkov/rdkit)
+Repository: rdkit
+
