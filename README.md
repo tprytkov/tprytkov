@@ -3,21 +3,35 @@
 Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical NLP, Python, Scientific ML 
 
 ## Technical Skills
+
+### Scientific AI / Machine Learning
+- Biomedical NLP, transformer models, and literature-evidence workflows
 - Retrieval-Augmented Generation pipeline design
 - Hybrid search: sparse TF-IDF/BM25-style retrieval plus dense transformer embeddings
-- Biomedical NLP and literature search workflows
-- FastAPI backend development
-- Streamlit dashboard development
-- pytest-based automated testing
-- Docker and docker-compose deployment
-- Python package organization with `src/`, `scripts/`, `tests/`, and `docs/`
+- ChemBERTa / BioBERT-style model integration for biomedical and molecular analysis
+- Model-cache management, offline/local model loading, and model-source transparency
+- pytest-based automated testing and reproducible ML pipeline validation
 
-- Python for scientific data analysis
-- RDKit and cheminformatics
-- Molecular docking and virtual screening
+### Cheminformatics and Drug Discovery
+- RDKit-based molecular standardization, descriptor calculation, and chemical similarity analysis
+- Drug-likeness filtering, ADME/BBB prediction, QED, Lipinski/Veber-style checks
+- Molecular docking, virtual screening, and docking-score interpretation
+- Synthetic accessibility heuristics and compound prioritization workflows
 - Molecular modeling and protein-ligand interaction analysis
+- Chemical identity checks, scaffold analysis, and known-compound comparison
+
+### Full-Stack Scientific Software
+- FastAPI backend development for scientific and ML workflows
+- React/MUI dashboard development for data-rich scientific applications
+- Streamlit dashboard development for rapid scientific prototyping
+- Persistent run metadata, local JSON manifests, and result-report generation
+- Python package organization with `src/`, `tests/`, `docs/`, and modular pipeline structure
 - pandas, NumPy, scikit-learn, matplotlib
-- Drug-likeness filtering, scaffold analysis, and ADME data preparation
+
+### Deployment and Engineering
+- Git/GitHub project organization and reproducible local setup
+- Docker and docker-compose deployment
+- Local-first architecture for large model files and scientific compute workflows
 
 ## Featured Repository
 
