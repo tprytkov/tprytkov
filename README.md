@@ -21,6 +21,16 @@ Senior Applied AI Scientist / Senior Data Scientist | GenAI, LLM/RAG, Biomedical
 
 ## Featured Repository
 
+### MolOptima
+
+MolOptima is a full-stack scientific application for prioritizing AI-generated or user-provided small molecules and connecting top candidates to biopharma intelligence signals.
+
+The application integrates molecular standardization, RDKit descriptors, BBB/ChemBERTa prediction from a local app-managed model cache, synthetic accessibility scoring, optional docking-score input, exact chemical identity checks, local chemical similarity analysis, model/data-source transparency, persistent run summaries, compound detail views, and Markdown report export.
+
+MolOptima is designed as a working scientific software system for early-stage compound evaluation. Computational outputs are screening signals only and do not determine clinical efficacy, safety, patentability, freedom to operate, or legal conclusions.
+
+Repository: https://github.com/tprytkov/moloptima
+
 
 ## Selected AI, Biomedical NLP, and Drug Design Projects
 
